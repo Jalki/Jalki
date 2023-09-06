@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jalki
-- 👀 I’m interested in ... Programming, Gaming, Computer Repair and Toubleshooting, Website Development, and Cooking (Usually good) food
-- 🌱 I’m currently learning ... Backend parts of websites, DearGui, Godot, Unity
-- 💞️ I’m looking to collaborate on ... Godot Projects, Python, Web Development and Androi
-- 📫 How to reach me ... Email: jaleenbowenskelly@gmail.com. We can go furthur from there!
+- 👋 Hi, I am Jaleen Bowens-Kelly, a Web and Game Developer. 
+- 👀 I’m interested in ... Programming, Gaming, Computer Repair and Troubleshooting, Website Development, and Cooking (Usually good) food
+- 🌱 I’m currently learning ... Assembly for embedded systems, DearGui, Godot, Unity
+- 💞️ I’m looking to collaborate on ... Godot Projects, Python, Web Development and Mobile development
+- 📫 How to reach me ... Email: jaleenbowenskelly@gmail.com. We can go further from there!
 
 <!---
 Jalki/Jalki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
