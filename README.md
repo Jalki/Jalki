@@ -104,6 +104,19 @@ I’m open to collaborating on:
 
 ---
 
+## 📚 Currently Learning
+
+* **Digital Systems & Hardware Design**
+  Working with VHDL/Verilog to better understand low-level computation and architecture
+
+* **Compiler & Systems Concepts**
+  Exploring parsing, program structure, and how high-level code translates to machine-level execution
+
+* **Backend System Design**
+  Improving API structure, data flow, and scalability in full-stack applications
+
+---
+
 🚧 Currently Building: Autonomous IoT Garden v2 (ESP32 + Web Dashboard)
 
 ---
